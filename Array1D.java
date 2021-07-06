@@ -1,3 +1,16 @@
+/* Sample Input: 
+5
+10
+20
+30
+40
+50
+Sample Output:
+10
+20
+30
+40
+50*/
 import java.util.*;
 
 public class Array1D {
