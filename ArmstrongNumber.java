@@ -49,3 +49,7 @@ class ArmstrongNumber
 	}
 
 }
+Output: Enter a number: 153
+	153 is a armstrong number
+	Enter a number: 234
+	234 is a armstrong number
