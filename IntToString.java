@@ -1,3 +1,5 @@
+/* Sample Input: 100
+Sample Output: Good Job*/
 import java.util.*;
 import java.security.*;
 public class IntToString {
