@@ -1,3 +1,10 @@
+/* Sample Input: 
+hello
+java
+Sample Output:
+9
+No
+Hello Java */
 import java.util.*;
     
 public class Strings{
